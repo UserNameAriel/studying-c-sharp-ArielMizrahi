@@ -13,6 +13,8 @@ namespace Studing_Csharp_ArielMizrahi.NewFolder
         {
             Console.WriteLine("Hi i'm class2");
             level3_1.RunMe();
+            level3_2.RunMe();
+
         }
     }
 }
