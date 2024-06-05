@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Studing_Csharp_ArielMizrahi.NewFolder
 {
-    internal class level2
+   public class level2
     {
         
         public static void RunMe()
